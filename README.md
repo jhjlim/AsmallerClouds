@@ -6,4 +6,6 @@ I did this layout as a side project because I love the clouds module and wanted 
 
 Original CAD file, PCB & Schematic and original design elements provided by Mutable Instruments under creative commons CC-BY-SA-3.0 license.
 
+Design contributions are provided by Jason H. J. Lim under Creative Commons CC-BY-SA-3.0 license.
+
 Support of DIY builds is not provided by myself nor Mutable Instruments nor the Mutable Instruments forums, please respect their wishes to not want to answer any questions regarding DIY builds and leave them to continue doing what they do best.
